@@ -1,8 +1,6 @@
 # back-in-balance-course
 “Back in Balance: A relationship restoration course with interactive modules and quizzes.”
 
-# Back in Balance — Course Website
-
 ## 📖 Overview
 Back in Balance is a guided relationship restoration course based on Chelec Pinckney's principles: love her the way she needs to be loved, and respect him the way he needs to be respected. This website delivers the course in an interactive, accessible format.
 
