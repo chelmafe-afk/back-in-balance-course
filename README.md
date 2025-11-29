@@ -19,21 +19,6 @@ Back in Balance is a guided relationship restoration course based on Chelec Pinc
 4. **Agreement & Unity**
 5. **Implementation & Next Steps**
 
-## 🛠 How to Use
-1. Download and unzip the project folder.
-2. Open `index.html` in your browser to preview locally.
-3. Customize:
-   - Edit `app.js` to update module content, quiz questions, and passing threshold.
-   - Replace `assets/logo.svg` with your logo.
-   - Adjust colors in `styles.css` if desired.
-
-## 🚀 Deployment (GitHub Pages)
-1. Create a new repository on GitHub.
-2. Upload all files from the unzipped folder.
-3. 
-3. Go to **Settings → Pages**.
-4. Under **Source**, select `main` branch and `/ (root)` folder.
-5. Click **Save**. Your site will be live at:
 6. License
 © 2025 Chelec Pinckney. All rights reserved.  
 This course and its content may not be copied, shared, or redistributed without written permission.
